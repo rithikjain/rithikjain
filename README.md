@@ -1,4 +1,8 @@
-<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/rithikjain/rithikjain/blob/master/code.gif"> 
+<p align="center">
+  <img src="https://github.com/rithikjain/rithikjain/blob/master/code.gif"> 
+  <br>
+  ( Yeah, I just stare at the screen everyday 😂 )
+</p>
 
 ### Hi 🙋‍♂️,
 ### I'm 19 years old Mobile Full-Stack developer 📈
