@@ -10,7 +10,7 @@
 <br>
 
 ### My Tech Stack
-<img src="https://img.shields.io/badge/-ANDROID-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-KOTLIN-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-MVVM-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-KOTLIN-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-FIREBASE-yellow?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-ANDROID-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-KOTLIN-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-MVVM-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-JAVA-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-FIREBASE-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-FLUTTER-brightgreen?style=for-the-badge">
 
 
 
