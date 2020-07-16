@@ -1,11 +1,11 @@
-<p align="center">
+<p>
   <img src="https://github.com/rithikjain/rithikjain/blob/master/code.gif"> 
   <br>
   ( Yeah, I just stare at the screen everyday 😂 )
 </p>
 
 ### Hi 🙋‍♂️,
-### I'm 19 years old Mobile Full-Stack developer 📈
+### I'm a 19 year old Mobile Full-Stack developer currently part of [DSC-VIT](https://github.com/GDGVIT) and [Smoketrees](https://github.com/smoke-trees) 📈
 
 ![Rithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithikjain)
 
