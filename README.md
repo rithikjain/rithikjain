@@ -7,6 +7,12 @@
 ### Hi 🙋‍♂️,
 ### I'm a 19 year old Mobile Full-Stack developer currently part of [DSC-VIT](https://github.com/GDGVIT) and [Smoketrees](https://github.com/smoke-trees) 📈
 
+<br>
+
+### My Tech Stack
+
+<br>
+
 ![Rithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithikjain)
 
 <br>
