@@ -10,6 +10,8 @@
 <br>
 
 ### My Tech Stack
+<img src="https://img.shields.io/badge/-ANDROID-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-KOTLIN-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-GO-green?style=for-the-badge">
+
 
 <br>
 
