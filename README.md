@@ -1,11 +1,7 @@
-<figure>
-  <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/rithikjain/rithikjain/blob/master/code.gif"> 
-  
-  <figcaption>( Yeah, I just stare at the screen everyday 😂 )</figcaption>
-</figure>
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/rithikjain/rithikjain/blob/master/code.gif"> 
 
 ### Hi 🙋‍♂️,
-### I'm 19 years old Mobile Full-Stack developer and I am part of an amazing community DSC-VIT
+### I'm 19 years old Mobile Full-Stack developer 📈
 
 ![Rithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithikjain)
 
