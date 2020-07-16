@@ -19,6 +19,10 @@
 
 <br>
 
+⚡ Fun fact: I am also a beatboxer 🎤
+
+<br>
+
 ![Rithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithikjain)
 
 <br>
