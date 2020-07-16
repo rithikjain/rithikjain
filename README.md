@@ -1,10 +1,11 @@
-<p align="center">
+<p align="right">
   <img src="https://github.com/rithikjain/rithikjain/blob/master/code.gif"> 
   <br>
   ( Yeah, I just stare at the screen everyday 😂 )
 </p>
 
-<br>
+### Hi 🙋‍♂️,
+### I'm 18 years old Self-taught Full-Stack developer from India.
 
 ![Rithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithikjain)
 
