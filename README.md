@@ -5,7 +5,7 @@
 </p>
 
 ### Hi 🙋‍♂️,
-### I'm a 19 year old Mobile Full-Stack developer currently part of [DSC-VIT](https://github.com/GDGVIT) and [Smoketrees](https://github.com/smoke-trees) 📈
+### I'm a 19 year old Mobile Full-Stack developer currently part of [DSC-VIT](https://github.com/GDGVIT) 📈
 
 <br>
 
