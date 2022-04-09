@@ -5,7 +5,7 @@
 </p>
 
 ### Hi 🙋‍♂️,
-### I'm a 19 year old Full-Stack developer currently part of [DSC-VIT](https://github.com/GDGVIT) 📈
+### I'm a 20 year old Full-Stack developer currently part of [GDSC-VIT](https://github.com/GDGVIT) 📈
 
 <br>
 
