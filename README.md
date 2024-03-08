@@ -5,7 +5,7 @@
 </p>
 
 ### Hi 🙋‍♂️,
-### I'm a 21 year old Full-Stack developer currently part of [GDSC-VIT](https://github.com/GDGVIT) 📈
+### I'm a 22 year old Mobile Full Stack developer currently a part of CRED 📈
 
 <br>
 
