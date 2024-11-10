@@ -5,7 +5,7 @@
 </p>
 
 ### Hi 🙋‍♂️,
-### I'm a 22 year old Mobile Full Stack developer currently a part of CRED 📈
+### I'm a 23 year old Mobile Full Stack developer currently a part of CRED 📈
 
 <br>
 
